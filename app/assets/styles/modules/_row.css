@@ -63,7 +63,7 @@
     &__medium-8--smaller {
       width: 63%;
     }
-    
+  }
     
     @mixin atLarge {
     
@@ -95,7 +95,7 @@
     }
   
   }
-  
+
   /*Begin equal height at medium rules*/
   
   &--equal-height-at-medium {
@@ -127,7 +127,6 @@
       display: flex;
     }
   }
-  
   
   
 }
